@@ -1,0 +1,30 @@
+Roll No     : 5
+Name        :Tanya SHarma
+Class       : 9
+Year        : 2018
+Total Marks : 91
+
+Roll No     : 12
+Name        :Rishika Arora
+Class       : 4
+Year        : 2022
+Total Marks : 84
+
+Roll No     : 32
+Name        :Lavanya Gambhir
+Class       : 10
+Year        : 2015
+Total Marks : 77
+
+Roll No     : 8
+Name        :Jasleen Gulati
+Class       : 6
+Year        : 2021
+Total Marks : 65
+
+Roll No     : 46
+Name        :Gurbani Kaur
+Class       : 11
+Year        : 2012
+Total Marks : 88
+
